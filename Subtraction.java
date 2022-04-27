@@ -5,6 +5,6 @@ public class Subtraction {
       int num1 = 15, num2 = 5, sum;
       sum = num1 - num2;
 
-      System.out.println("Subtraction of these numbers: "+sum);
+      System.out.println("Subtraction of "+num1+" & "+num2+" these numbers: "+sum);
    }
 }
